@@ -1,15 +1,11 @@
 fileFormatVersion: 2
-guid: d4792ab4684bc9443a5dc9e17bca883d
+guid: 08421ced6e059a74da176cd0b4c45a95
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Tiles_CD_0
-    21300002: Tiles_CD_1
-    21300004: Tiles_CD_2
-    21300006: Tiles_CD_3
-    21300008: Tiles_CD_4
-    21300010: Tiles_CD_5
-    21300012: Tiles_CD_6
-    21300014: Tiles_CD_7
+    21300000: Robot_0
+    21300002: Robot_1
+    21300004: Robot_2
+    21300006: Robot_3
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -125,13 +121,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tiles_CD_0
+      name: Robot_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 12
+        y: 4
+        width: 34
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,19 +135,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ee2a37fae304154198951187ec515d8
+      spriteID: ed9d96aada851d342aaea15bd38eb1f7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_CD_1
+      name: Robot_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 76
+        y: 4
+        width: 36
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,19 +155,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 874ae3b2c56286e419aaaf2692858240
+      spriteID: 50cc5a07f782d0a42ac8c49db32fbbb7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_CD_2
+      name: Robot_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 140
+        y: 4
+        width: 34
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,19 +175,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 762a96cfd713779429dd950d8e227c22
+      spriteID: e7eaadc7c32a51b4183655663dd4c908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_CD_3
+      name: Robot_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 204
+        y: 4
+        width: 36
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,87 +195,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0cb3e6bf41aafb4f8b7d0f957d5867b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles_CD_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1fe322a2729db3b4caebc9fa809c26f8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles_CD_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec0b216bdd1e50442bd9dad0b5db5c12
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles_CD_6
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a3e10ed265fad143a9891790d185e1a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tiles_CD_7
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e727c0d5ce14cd046b3fe3e9063d31db
+      spriteID: 5f0d557497886314fb982cfed37356c8
       vertices: []
       indices: 
       edges: []
@@ -287,7 +203,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 317e2735cf72c374ab281fc7b8b2be1e
+    spriteID: 0a2b3647f2491df4eabac284e760d5d7
     vertices: []
     indices: 
     edges: []
